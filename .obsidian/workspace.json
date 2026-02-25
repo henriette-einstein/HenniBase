@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "40 Ressources/Persons/Anthony Eden.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Anthony Eden"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md",
+                "file": "40 Ressources/Persons/Anthony Eden.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of Anthony Eden"
             }
           },
           {
@@ -197,6 +197,13 @@
   },
   "active": "b8c1566b193b22fd",
   "lastOpenFiles": [
+    "40 Ressources/Events/Suez Crisis (1956).md",
+    "40 Ressources/Persons/Anthony Eden.md",
+    "50 Zettelkasten/MOCs/MOC Cold War.md",
+    "40 Ressources/Organizations/NATO.md",
+    "40 Ressources/Countries/United Kingdom.md",
+    "40 Ressources/Cities/London.md",
+    "Home.md",
     "40 Ressources/Terms/Folder Terms.md",
     "40 Ressources/Persons/Folder Persons.md",
     "40 Ressources/Organizations/Folder Organizations.md",
@@ -216,14 +223,7 @@
     "50 Zettelkasten/MOCs/Folder MOCs.md",
     "50 Zettelkasten/Zettel/Folder Zettel.md",
     "10 Journal/10 Journal.md",
-    "30 Areas/Area Vault Config.md",
-    "90 System/Types/Area.md",
-    "00 Inbox/00 Inbox.md",
-    "README.md",
-    "90 System/Types/Type.md",
-    "Home.md",
     "90 System/Bases/Pinned Notes.base",
-    "90 System/Templates/Template Area.md",
     "90 System/Types/Area",
     "90 System/Bases/Similar Notes.base",
     "90 System/Bases/Linked Notes.base",
