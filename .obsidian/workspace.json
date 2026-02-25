@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "20 Projects/20 Projects.md",
+                "file": "40 Ressources/Terms/Terms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20 Projects"
+              "title": "Terms"
             }
           }
         ]
@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,13 +196,22 @@
   },
   "active": "b8c1566b193b22fd",
   "lastOpenFiles": [
-    "00 Inbox/00 Inbox.md",
+    "40 Ressources/Persons/Persons.md",
+    "40 Ressources/Terms/Terms.md",
+    "40 Ressources/Organizations/Organizations.md",
+    "40 Ressources/Notes/Notes.md",
+    "40 Ressources/Locations/Locations.md",
+    "40 Ressources/Events/Events.md",
+    "40 Ressources/Countries/Countries.md",
+    "40 Ressources/Cities/Cities.md",
+    "30 Areas/Area Vault Config.md",
+    "90 System/Types/Area.md",
     "20 Projects/20 Projects.md",
+    "00 Inbox/00 Inbox.md",
     "README.md",
     "90 System/Types/Type.md",
     "Home.md",
     "90 System/Bases/Pinned Notes.base",
-    "90 System/Types/Area.md",
     "90 System/Templates/Template Area.md",
     "90 System/Types/Area",
     "90 System/Bases/Similar Notes.base",
@@ -220,18 +228,9 @@
     "90 System/Types/MOC.md",
     "90 System/Types/Location.md",
     "90 System/Types/Event.md",
-    "90 System/Types/Essay.md",
-    "90 System/Types/Zettel.md",
-    "90 System/Types/Person.md",
-    "90 System/Types/Country.md",
-    "90 System/Types/City.md",
     "90 System/Bases/Type.base",
     "90 System/Bases/Term.base",
     "90 System/Bases/Source.base",
-    "90 System/Templates/Template Source.md",
-    "90 System/Bases/MOC.base",
-    "90 System/Templates/Template Project.md",
-    "90 System/Templates/Template Event.md",
-    "90 System/Templates/Template Essay.md"
+    "90 System/Bases/MOC.base"
   ]
 }
