@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40 Ressources/Persons/Anthony Eden.md",
+                "file": "40 Ressources/Terms/Rentier State.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anthony Eden"
+              "title": "Rentier State"
             }
           }
         ]
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40 Ressources/Persons/Anthony Eden.md",
+                "file": "40 Ressources/Terms/Rentier State.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Anthony Eden"
+              "title": "Outline of Rentier State"
             }
           },
           {
@@ -197,8 +197,9 @@
   },
   "active": "b8c1566b193b22fd",
   "lastOpenFiles": [
-    "40 Ressources/Events/Suez Crisis (1956).md",
     "40 Ressources/Persons/Anthony Eden.md",
+    "40 Ressources/Terms/Rentier State.md",
+    "40 Ressources/Events/Suez Crisis (1956).md",
     "50 Zettelkasten/MOCs/MOC Cold War.md",
     "40 Ressources/Organizations/NATO.md",
     "40 Ressources/Countries/United Kingdom.md",
@@ -222,7 +223,6 @@
     "50 Zettelkasten/Essays/Folder Essays.md",
     "50 Zettelkasten/MOCs/Folder MOCs.md",
     "50 Zettelkasten/Zettel/Folder Zettel.md",
-    "10 Journal/10 Journal.md",
     "90 System/Bases/Pinned Notes.base",
     "90 System/Types/Area",
     "90 System/Bases/Similar Notes.base",
