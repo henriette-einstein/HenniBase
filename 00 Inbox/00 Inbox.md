@@ -1,0 +1,1 @@
+This is the default directory when creating new notes

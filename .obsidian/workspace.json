@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "90 System/Types/Type.md",
-                "mode": "preview",
+                "file": "20 Projects/20 Projects.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Type"
+              "title": "20 Projects"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "90 System/Types/Type.md",
+                "file": "20 Projects/20 Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Type"
+              "title": "Backlinks for 20 Projects"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "90 System/Types/Type.md",
+                "file": "20 Projects/20 Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Type"
+              "title": "Outgoing links from 20 Projects"
             }
           },
           {
@@ -156,21 +156,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "90 System/Types/Type.md",
+                "file": "20 Projects/20 Projects.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Type"
+              "title": "Outline of 20 Projects"
+            }
+          },
+          {
+            "id": "8b8570567003f148",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,14 +190,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3be36ba4cce00560",
+  "active": "b8c1566b193b22fd",
   "lastOpenFiles": [
+    "00 Inbox/00 Inbox.md",
+    "20 Projects/20 Projects.md",
     "README.md",
-    "Home.md",
     "90 System/Types/Type.md",
+    "Home.md",
     "90 System/Bases/Pinned Notes.base",
     "90 System/Types/Area.md",
     "90 System/Templates/Template Area.md",
@@ -218,8 +231,6 @@
     "90 System/Bases/MOC.base",
     "90 System/Templates/Template Project.md",
     "90 System/Templates/Template Event.md",
-    "90 System/Templates/Template Essay.md",
-    "90 System/Templates/Template Category.md",
-    "90 System/Templates/Template Zettel.md"
+    "90 System/Templates/Template Essay.md"
   ]
 }
