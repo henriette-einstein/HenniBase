@@ -156,27 +156,27 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "20 Projects/20 Projects.md",
+                "file": "40 Ressources/Terms/Folder Terms.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 20 Projects"
+              "title": "Outline of Folder Terms"
             }
           },
           {
-            "id": "8b8570567003f148",
+            "id": "a553343c764c20f5",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "calendar",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -194,7 +194,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8c1566b193b22fd",
+  "active": "7430aeceefedaadb",
   "lastOpenFiles": [
     "40 Ressources/Persons/Folder Persons.md",
     "40 Ressources/Organizations/Folder Organizations.md",
