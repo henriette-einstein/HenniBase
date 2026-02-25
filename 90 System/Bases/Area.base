@@ -18,7 +18,7 @@ views:
         direction: ASC
     columnSize:
       file.name: 279
-  - type: table
+  - type: cards
     name: Main Areas
     filters:
       and:
