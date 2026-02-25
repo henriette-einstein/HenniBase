@@ -1,0 +1,6 @@
+filters:
+  and:
+    - file.tags.contains("pinned")
+views:
+  - type: list
+    name: Pinned

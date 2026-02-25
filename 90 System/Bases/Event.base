@@ -1,0 +1,32 @@
+filters:
+  and:
+    - '!file.path.startsWith("90 System")'
+    - type == link("Event")
+properties:
+  file.name:
+    displayName: Name
+  note.capital:
+    displayName: Capital
+  note.areas:
+    displayName: Areas
+  note.categories:
+    displayName: Categories
+  note.start:
+    displayName: Start
+  note.end:
+    displayName: End
+views:
+  - type: table
+    name: All Events
+    order:
+      - file.name
+      - categories
+      - start
+      - end
+      - areas
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 206
+      note.categories: 177

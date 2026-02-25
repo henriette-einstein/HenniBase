@@ -1,0 +1,19 @@
+filters:
+  and:
+    - '!file.path.startsWith("90 System")'
+    - type == link("Note")
+properties:
+  file.name:
+    displayName: Name
+  note.country:
+    displayName: Country
+  note.areas:
+    displayName: Areas
+views:
+  - type: table
+    name: All Notes
+    order:
+      - file.name
+      - areas
+    columnSize:
+      file.name: 378

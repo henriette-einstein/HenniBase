@@ -1,0 +1,17 @@
+filters:
+  and:
+    - '!file.path.startsWith("90 System")'
+    - type == link("City")
+properties:
+  file.name:
+    displayName: Name
+  note.country:
+    displayName: Country
+views:
+  - type: table
+    name: All Cities
+    order:
+      - file.name
+      - country
+    columnSize:
+      file.name: 227

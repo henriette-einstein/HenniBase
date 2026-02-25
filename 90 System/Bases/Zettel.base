@@ -1,0 +1,17 @@
+filters:
+  and:
+    - '!file.path.startsWith("90 System")'
+    - type == link("Zettel")
+properties:
+  file.name:
+    displayName: Name
+  note.areas:
+    displayName: Areas
+views:
+  - type: table
+    name: All Zettel
+    order:
+      - file.name
+      - areas
+    columnSize:
+      file.name: 319

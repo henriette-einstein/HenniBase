@@ -1,0 +1,32 @@
+filters:
+  and:
+    - '!file.path.startsWith("90 System")'
+    - type == link("Person")
+properties:
+  file.name:
+    displayName: Name
+  note.capital:
+    displayName: Capital
+  note.areas:
+    displayName: Areas
+  note.categories:
+    displayName: Categories
+  note.born:
+    displayName: Born
+  note.died:
+    displayName: Died
+views:
+  - type: table
+    name: All Persons
+    order:
+      - file.name
+      - categories
+      - born
+      - died
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 243
+      note.categories: 217
+      note.born: 93

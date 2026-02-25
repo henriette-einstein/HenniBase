@@ -1,0 +1,24 @@
+filters:
+  and:
+    - '!file.path.startsWith("90 System")'
+    - type == link("Term")
+properties:
+  file.name:
+    displayName: Name
+  note.capital:
+    displayName: Capital
+  note.areas:
+    displayName: Areas
+  note.categories:
+    displayName: Categories
+views:
+  - type: table
+    name: All Terms
+    order:
+      - file.name
+      - areas
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 280

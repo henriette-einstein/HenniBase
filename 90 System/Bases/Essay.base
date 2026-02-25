@@ -1,0 +1,26 @@
+filters:
+  and:
+    - '!file.path.startsWith("90 System")'
+    - type == link("Essay")
+properties:
+  file.name:
+    displayName: Name
+  note.capital:
+    displayName: Capital
+  note.areas:
+    displayName: Areas
+  note.categories:
+    displayName: Categories
+views:
+  - type: table
+    name: All Essays
+    order:
+      - file.name
+      - categories
+      - areas
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 206
+      note.categories: 177

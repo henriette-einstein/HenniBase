@@ -1,0 +1,22 @@
+filters:
+  and:
+    - '!file.path.startsWith("90 System")'
+    - "!file.links.contains(this.file.asLink())"
+    - file.path != this.file.path
+    - file.tags.containsAny(this.file.tags)
+properties:
+  file.name:
+    displayName: Name
+  note.categories:
+    displayName: Categories
+  note.type:
+    displayName: Type
+views:
+  - type: table
+    name: Linked Notes
+    order:
+      - file.name
+      - type
+      - categories
+    columnSize:
+      file.name: 294

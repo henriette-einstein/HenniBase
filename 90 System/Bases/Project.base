@@ -1,0 +1,33 @@
+filters:
+  and:
+    - '!file.path.startsWith("90 System")'
+    - type == link("Project")
+properties:
+  file.name:
+    displayName: Name
+  note.capital:
+    displayName: Capital
+  note.areas:
+    displayName: Areas
+  note.categories:
+    displayName: Categories
+  note.born:
+    displayName: Born
+  note.died:
+    displayName: Died
+  note.status:
+    displayName: Status
+views:
+  - type: table
+    name: All Projects
+    order:
+      - file.name
+      - categories
+      - status
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 243
+      note.categories: 217
+      note.born: 93
