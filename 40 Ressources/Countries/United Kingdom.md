@@ -8,7 +8,7 @@ flag: https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.
 location:
   - "54.7024"
   - "-3.2765"
-icon:
+icon: locate
 color: red
 tags: []
 areas: []

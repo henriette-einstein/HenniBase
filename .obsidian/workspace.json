@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "50 Zettelkasten/Zettel/Greater Syria Plan.md",
+                "file": "40 Ressources/Countries/United Kingdom.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Greater Syria Plan"
+              "title": "United Kingdom"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "50 Zettelkasten/Zettel/Greater Syria Plan.md",
+                "file": "40 Ressources/Countries/United Kingdom.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Greater Syria Plan"
+              "title": "Outline of United Kingdom"
             }
           },
           {
@@ -220,8 +220,11 @@
   },
   "active": "b8c1566b193b22fd",
   "lastOpenFiles": [
-    "90 System/Types/Topic.md",
+    "40 Ressources/Locations/Abadan Oil Refinery.md",
+    "40 Ressources/Countries/United Kingdom.md",
+    "40 Ressources/Cities/London.md",
     "50 Zettelkasten/Zettel/Greater Syria Plan.md",
+    "90 System/Types/Topic.md",
     "50 Zettelkasten/MOCs/Topic Cold War.md",
     "90 System/Types/MOC.md",
     "30 Areas/Area Cold War.md",
@@ -231,14 +234,11 @@
     "50 Zettelkasten/Essays/Decline of the Sterling Zone.md",
     "40 Ressources/Notes/How to use Git in Obsidian.md",
     "90 System/Types/City.md",
-    "40 Ressources/Cities/London.md",
     "90 System/Types/Country.md",
-    "40 Ressources/Countries/United Kingdom.md",
     "90 System/Templates/Template Country.md",
     "90 System/Templates/Template City.md",
     "90 System/Templates/Template Location.md",
     "90 System/Types/Location.md",
-    "40 Ressources/Locations/Abadan Oil Refinery.md",
     "90 System/Types/Book.md",
     "90 System/Types/Source.md",
     "40 Ressources/Terms/Rentier State.md",
