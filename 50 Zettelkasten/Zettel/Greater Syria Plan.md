@@ -2,11 +2,17 @@
 type: "[[Zettel]]"
 created: 2026-02-25
 modified: 2026-02-25
-tags: [arab-nationalism, pan-arabism, middle-east, hashemite, sykes-picot]
+tags:
+  - arab-nationalism
+  - pan-arabism
+  - middle-east
+  - hashemite
+  - sykes-picot
 sources:
   - "[[Barr - Lords of the Desert]]"
-  - "https://en.wikipedia.org/wiki/Greater_Syria"
-areas: []
+  - https://en.wikipedia.org/wiki/Greater_Syria
+areas:
+  - "[[Area Cold War]]"
 ---
 
 The repeated failure of the Greater Syria Plan illustrates a structural feature of postwar Middle Eastern politics: every external power with interests in the region calculated that a unified Arab state would be harder to manage than fragmented ones, and acted to prevent it. King [[Abdullah I of Jordan]] spent the 1940s lobbying for a Hashemite-led union of [[Syria]], [[Lebanon]], [[Transjordan]], and [[Palestine]] under his crown. Britain neither endorsed nor firmly rejected the plan, using it as quiet leverage over both Abdullah and the French while maintaining just enough ambiguity to prevent any outcome it had not authorised. France regarded any Hashemite expansion toward Syria as a direct threat to its mandate and blocked it unconditionally. The Arab League, dominated by Egypt and Saudi Arabia, opposed a Hashemite Greater Syria as dynastic imperialism dressed in nationalist language.
