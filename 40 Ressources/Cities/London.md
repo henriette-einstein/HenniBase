@@ -6,6 +6,8 @@ country: "[[United Kingdom]]"
 location:
   - "51.5074"
   - "-0.1278"
+icon: building
+color: red
 tags: []
 areas: []
 ---

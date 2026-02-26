@@ -17,6 +17,22 @@ views:
     order:
       - file.name
       - categories
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 285
+      note.categories: 177
+    coordinates: note.location
+    markerIcon: note.icon
+    markerColor: note.color
+    center: "[30.5166, 23.44523]"
+    defaultZoom: 2
+  - type: map
+    name: POIs
+    order:
+      - file.name
+      - categories
       - areas
     sort:
       - property: file.name
@@ -24,3 +40,8 @@ views:
     columnSize:
       file.name: 206
       note.categories: 177
+    coordinates: note.location
+    markerIcon: note.icon
+    markerColor: note.color
+    center: "[30.5166, 23.44523]"
+    defaultZoom: 2

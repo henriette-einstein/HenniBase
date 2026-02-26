@@ -15,3 +15,15 @@ views:
       - country
     columnSize:
       file.name: 227
+  - type: map
+    name: Map View
+    order:
+      - file.name
+      - country
+    columnSize:
+      file.name: 227
+    coordinates: note.location
+    markerIcon: note.icon
+    markerColor: note.color
+    center: "[39.7881, -43.4819]"
+    defaultZoom: 0.4

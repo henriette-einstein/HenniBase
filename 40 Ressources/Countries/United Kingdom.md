@@ -2,11 +2,14 @@
 type: "[[Country]]"
 created: 2026-02-25
 modified: 2026-02-25
-capital: ["[[London]]"]
-flag: "https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg"
+capital:
+  - "[[London]]"
+flag: https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg
 location:
   - "54.7024"
   - "-3.2765"
+icon:
+color: red
 tags: []
 areas: []
 ---

@@ -18,3 +18,19 @@ views:
         direction: ASC
     columnSize:
       file.name: 280
+  - type: map
+    name: Map View
+    order:
+      - file.name
+      - capital
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 280
+    image: note.location
+    coordinates: note.location
+    markerIcon: note.icon
+    markerColor: note.color
+    defaultZoom: 0.4
+    center: "[23.60948, -1.20651]"

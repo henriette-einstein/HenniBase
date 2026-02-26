@@ -3,7 +3,8 @@ type: "[[Location]]"
 categories:
 created: "{{date}}"
 modified: "{{date}}"
-capital:
-flag:
+location:
+icon: map-pin
 tags:
+color: red
 ---
