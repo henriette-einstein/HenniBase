@@ -11,6 +11,8 @@ properties:
     displayName: Areas
   note.categories:
     displayName: Categories
+  note.authors:
+    displayName: Authors
 views:
   - type: table
     name: All Sources
@@ -24,3 +26,19 @@ views:
     columnSize:
       file.name: 206
       note.categories: 177
+  - type: cards
+    name: Books
+    filters:
+      and:
+        - categories.contains(link("Book"))
+    order:
+      - file.name
+      - authors
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 206
+      note.categories: 177
+    image: note.cover
+    imageFit: contain
