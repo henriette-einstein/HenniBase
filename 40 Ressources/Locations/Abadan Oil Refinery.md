@@ -47,7 +47,7 @@ In September 1980 [[Iraq]] invaded [[Khuzestan]] in the opening phase of the [[I
 ### Vault Links
 - [[Barr - Lords of the Desert]] – The 1951 nationalisation crisis and Anglo-American rivalry over Iranian oil are central to Barr's account
 - [[Rentier State]] – The refinery is the material foundation of Iran's oil-based rentier economy in the mid-20th century
-- [[MOC Cold War]] – The nationalisation crisis and the 1953 coup are key episodes in the Cold War competition for the Middle East
+- [[Topic Cold War]] – The nationalisation crisis and the 1953 coup are key episodes in the Cold War competition for the Middle East
 
 ### Country and Region
 - [[Iran]] – The sovereign state in which the refinery is located and whose oil industry it anchors

@@ -1,20 +1,29 @@
 ---
 type: "[[Source]]"
-categories: ["[[Book]]"]
+categories:
+  - "[[Book]]"
 created: 2026-02-25
 modified: 2026-02-25
-authors: ["[[Barr, James]]"]
+authors:
+  - "[[Barr, James]]"
 published: 2018-01-01
-isbn: "978-1-4711-3979-6"
+isbn: 978-1-4711-3979-6
 pages: 416
-publisher: "Simon & Schuster"
-cover: "https://books.google.com/books/content?id=1XY-DwAAQBAJ&printsec=frontcover&img=1&zoom=3"
-tags: [middle-east, british-empire, cold-war, us-foreign-policy, oil, decolonisation]
+publisher: Simon & Schuster
+cover: https://books.google.com/books/content?id=1XY-DwAAQBAJ&printsec=frontcover&img=1&zoom=3
+tags:
+  - middle-east
+  - british-empire
+  - cold-war
+  - us-foreign-policy
+  - oil
+  - decolonisation
 rating:
 sources:
-  - "https://www.simonandschuster.co.uk/books/Lords-of-the-Desert/James-Barr/9781471139802"
-  - "https://www.hachettebookgroup.com/titles/james-barr/lords-of-the-desert/9781541617407/"
-areas: []
+  - https://www.simonandschuster.co.uk/books/Lords-of-the-Desert/James-Barr/9781471139802
+  - https://www.hachettebookgroup.com/titles/james-barr/lords-of-the-desert/9781541617407/
+areas:
+  - "[[Area Cold War]]"
 ---
 
 *Lords of the Desert: Britain's Struggle with America to Dominate the Middle East* (2018) is a work of archival history by [[Barr, James]], a visiting fellow at King's College London and author of the related *A Line in the Sand* (2011). Drawing on declassified British and American government records, the book traces the covert and overt Anglo-American competition for supremacy in the Middle East from the end of the [[Second World War]] through the mid-1960s.
@@ -42,7 +51,7 @@ The book provides detailed archival grounding for several themes that appear els
 ### Vault Links
 - [[Anthony Eden]] – British Prime Minister during Suez, whose career and resignation the book treats in detail
 - [[United Kingdom]] – The principal subject, whose regional power the book traces from dominance to displacement
-- [[MOC Cold War]] – The Cold War competition provides the strategic framework for the Anglo-American rivalry
+- [[Topic Cold War]] – The Cold War competition provides the strategic framework for the Anglo-American rivalry
 - [[NATO]] – The alliance whose coherence was strained by the divergence of British and American interests in the Middle East
 
 ### People

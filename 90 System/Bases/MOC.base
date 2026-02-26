@@ -24,3 +24,17 @@ views:
     columnSize:
       file.name: 206
       note.categories: 177
+  - type: table
+    name: Topics
+    filters:
+      and:
+        - categories.contains(link("Topic"))
+    order:
+      - file.name
+      - areas
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 206
+      note.categories: 177

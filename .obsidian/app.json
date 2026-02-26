@@ -1,5 +1,6 @@
 {
   "newFileLocation": "folder",
   "newFileFolderPath": "00 Inbox",
-  "attachmentFolderPath": "80 Media"
+  "attachmentFolderPath": "80 Media",
+  "alwaysUpdateLinks": true
 }

@@ -1,17 +1,29 @@
 ---
 type: "[[Event]]"
-categories: ["[[Crisis]]"]
+categories:
+  - "[[Crisis]]"
 created: 2026-02-25
 modified: 2026-02-25
 start: 1956-07-26
 end: 1957-03-08
 where: "[[Egypt]]"
-participants: ["[[Egypt]]", "[[United Kingdom]]", "[[France]]", "[[Israel]]", "[[United States]]", "[[Soviet Union]]"]
-tags: [cold-war, decolonisation, middle-east, suez]
+participants:
+  - "[[Egypt]]"
+  - "[[United Kingdom]]"
+  - "[[France]]"
+  - "[[Israel]]"
+  - "[[United States]]"
+  - "[[Soviet Union]]"
+tags:
+  - cold-war
+  - decolonisation
+  - middle-east
+  - suez
 sources:
-  - "https://en.wikipedia.org/wiki/Suez_Crisis"
-  - "https://www.britannica.com/event/Suez-Crisis"
-areas: []
+  - https://en.wikipedia.org/wiki/Suez_Crisis
+  - https://www.britannica.com/event/Suez-Crisis
+areas:
+  - "[[Area Cold War]]"
 ---
 
 The Suez Crisis was a military and diplomatic confrontation precipitated by the nationalisation of the Suez Canal Company by Egyptian President [[Gamal Abdel Nasser]] on 26 July 1956. It resulted in a coordinated military intervention by [[Israel]], the [[United Kingdom]], and [[France]] against [[Egypt]], and ended in a political defeat for all three intervening powers under combined pressure from the [[United States]] and the [[Soviet Union]].
@@ -61,7 +73,7 @@ The crisis demonstrated the degree to which the post-1945 international order wa
 ### Vault Links
 - [[United Kingdom]] – Founding NATO member and primary intervening power, whose post-imperial role was redefined by the crisis
 - [[NATO]] – The crisis strained Anglo-American relations within the alliance and exposed divergences in Western strategic interests
-- [[MOC Cold War]] – The crisis is a key episode in the bipolar competition of the Cold War era
+- [[Topic Cold War]] – The crisis is a key episode in the bipolar competition of the Cold War era
 
 ### Context and Aftermath
 - [[Arab Nationalism]] – Nasser's nationalisation was an expression of pan-Arab nationalist politics and opposition to Western economic control

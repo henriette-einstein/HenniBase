@@ -51,7 +51,7 @@ Eden was created Earl of Avon in 1961. He spent his later years writing his thre
 - [[United Kingdom]] – His country of birth, career, and the state whose post-imperial standing was altered by his decisions
 - [[Suez Crisis (1956)]] – The defining episode of his premiership, which led directly to his resignation
 - [[NATO]] – The Western alliance whose cohesion was strained by the Anglo-French intervention Eden authorised
-- [[MOC Cold War]] – The broader geopolitical context in which Eden's career as both Foreign Secretary and Prime Minister operated
+- [[Topic Cold War]] – The broader geopolitical context in which Eden's career as both Foreign Secretary and Prime Minister operated
 
 ### Contemporaries and Political Context
 - [[Winston Churchill]] – His mentor, predecessor as Prime Minister, and long-term political patron

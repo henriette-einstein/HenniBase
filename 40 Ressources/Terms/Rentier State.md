@@ -39,4 +39,4 @@ Related concepts include the [[Resource Curse]], which captures the broader set 
 - [[Kuwait]], [[Qatar]], [[United Arab Emirates]] – Gulf states frequently analysed through the rentier framework
 - [[OPEC]] – The organisation of major oil-exporting states, many of which are analysed as rentier states
 - [[Gulf States]] – The primary geographic context in which rentier state theory was developed
-- [[MOC Cold War]] – The Cold War created the geopolitical conditions under which Gulf oil states developed their rentier structures
+- [[Topic Cold War]] – The Cold War created the geopolitical conditions under which Gulf oil states developed their rentier structures

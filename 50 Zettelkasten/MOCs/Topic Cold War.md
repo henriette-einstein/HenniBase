@@ -1,10 +1,16 @@
 ---
 type: "[[MOC]]"
+categories:
+  - "[[Topic]]"
 created: 2026-02-25
 modified: 2026-02-25
-summary: "Map of Content for the Cold War (1947–1991), covering the ideological, military, and geopolitical confrontation between the Western bloc and the Soviet Union."
-tags: [cold-war, geopolitics, 20th-century]
-areas: []
+summary: Map of Content for the Cold War (1947–1991), covering the ideological, military, and geopolitical confrontation between the Western bloc and the Soviet Union.
+tags:
+  - cold-war
+  - geopolitics
+  - 20th-century
+areas:
+  - "[[Area Cold War]]"
 ---
 
 The Cold War was the period of geopolitical tension between the [[United States]] and the [[Soviet Union]] that lasted from approximately 1947 to 1991. It was characterised by ideological rivalry between liberal capitalism and Soviet communism, military build-up on both sides, the threat of nuclear annihilation, and a series of proxy conflicts across Asia, Africa, Latin America, and the Middle East. The two superpowers never fought each other directly but competed through alliances, covert operations, arms races, and client states.

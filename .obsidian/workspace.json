@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "90 System/Types/City.md",
+                "file": "90 System/Types/Topic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "City"
+              "title": "Topic"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "90 System/Types/City.md",
+                "file": "90 System/Types/Topic.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of City"
+              "title": "Outline of Topic"
             }
           },
           {
@@ -188,14 +188,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "480753a0288f46d9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,6 +220,16 @@
   },
   "active": "b8c1566b193b22fd",
   "lastOpenFiles": [
+    "50 Zettelkasten/MOCs/Topic Cold War.md",
+    "90 System/Types/Topic.md",
+    "90 System/Types/MOC.md",
+    "30 Areas/Area Cold War.md",
+    "40 Ressources/Organizations/NATO.md",
+    "40 Ressources/Events/Suez Crisis (1956).md",
+    "60 Sources/Books/Barr - Lords of the Desert.md",
+    "50 Zettelkasten/Essays/Decline of the Sterling Zone.md",
+    "40 Ressources/Notes/How to use Git in Obsidian.md",
+    "90 System/Types/City.md",
     "40 Ressources/Cities/London.md",
     "90 System/Types/Country.md",
     "40 Ressources/Countries/United Kingdom.md",
@@ -220,24 +239,14 @@
     "90 System/Types/Location.md",
     "40 Ressources/Locations/Abadan Oil Refinery.md",
     "90 System/Types/Book.md",
-    "60 Sources/Books/Barr - Lords of the Desert.md",
     "90 System/Types/Source.md",
     "40 Ressources/Terms/Rentier State.md",
     "README.md",
     "60 Sources/Documentations",
     "40 Ressources/Persons/Anthony Eden.md",
-    "40 Ressources/Events/Suez Crisis (1956).md",
-    "50 Zettelkasten/MOCs/MOC Cold War.md",
-    "40 Ressources/Organizations/NATO.md",
     "Home.md",
     "40 Ressources/Terms/Folder Terms.md",
     "40 Ressources/Persons/Folder Persons.md",
-    "40 Ressources/Organizations/Folder Organizations.md",
-    "40 Ressources/Notes/Folder Notes.md",
-    "40 Ressources/Locations/Folder Locations.md",
-    "40 Ressources/Events/Folder Events.md",
-    "40 Ressources/Countries/Folder Countries.md",
-    "40 Ressources/Cities/Folder Cities.md",
     "90 System/Bases/Pinned Notes.base",
     "90 System/Types/Area",
     "90 System/Bases/Similar Notes.base",
